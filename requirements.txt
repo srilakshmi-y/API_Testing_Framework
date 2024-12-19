@@ -1,0 +1,10 @@
+# Dependencies for API Automation Framework
+
+# Python test framework for running tests
+pytest
+
+# HTTP Library for sending API requests
+requests
+
+# Plugin to generate HTML test reports
+pytest-html
